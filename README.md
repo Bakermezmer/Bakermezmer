@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 - 📫 How to reach me **bakermezmer@gmail.com**
-- :homme_technologue: All of my projects are available at https://troopl.com/bakermezmer
+- 👨‍💻 All of my projects are available at https://troopl.com/bakermezmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
